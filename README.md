@@ -2,16 +2,11 @@
 
 ## Corona related actions taken by countries (EBU)
 
-Data is available in `data` folder or via [this link](https://docs.google.com/spreadsheets/d/1Tt83x8vIMeZwYzsYJlxzz7hqfi3gTSpyaz1bB1olwCw/edit#gid=0) 
+Data is available in `data` folder or via [this link](https://docs.google.com/spreadsheets/d/1Tt83x8vIMeZwYzsYJlxzz7hqfi3gTSpyaz1bB1olwCw/edit#gid=0). 
 
 **Sources**
-* []()
-
-**EBU links**
-* []()
-
-**Used by**
-* []()
+* [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_Kingdom)
+* [Imperial Collage London](https://mrc-ide.github.io/covid19estimates/?#/)
 
 ## How to use
 
