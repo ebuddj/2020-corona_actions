@@ -6,7 +6,8 @@ Data is available in `data` folder or via [this link](https://docs.google.com/sp
 
 **Sources**
 * [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_Kingdom)
-* [Imperial Collage London](https://mrc-ide.github.io/covid19estimates/?#/)
+* [Imperial Collage London](https://mrc-ide.github.io/covid19estimates/)
+* [EBU Members](http://ebu.ch/members)
 
 ## How to use
 
