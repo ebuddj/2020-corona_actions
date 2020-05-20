@@ -6,9 +6,23 @@
 
 This map shows when each country in Europe closed their primary schools in March 2020 in order to prevent the spread of the novel coronavirus (COVID-19).
 
-The data comes from EBU membership and has been compined by EBU Data Journalist. If you find any mistakes please contact  Teemo Tebest, tebest@ebu.ch.
+The data comes from EBU membership and has been combined by EBU Data Journalist. If you find any mistakes please contact Teemo Tebest, tebest@ebu.ch.
 
-The whole data is available in `data` folder or via [this link](https://docs.google.com/spreadsheets/d/1Tt83x8vIMeZwYzsYJlxzz7hqfi3gTSpyaz1bB1olwCw/edit#gid=0). 
+The whole data is available in `data` folder or via [this link](https://docs.google.com/spreadsheets/d/1Tt83x8vIMeZwYzsYJlxzz7hqfi3gTSpyaz1bB1olwCw/edit#gid=0).
+
+Data includes information for:
+
+1. First coronavirus case
+2. First confirmed coronavirus death
+3. Non-essential shops closed
+4.  Nurseries / child care facilities closed
+5.  Primary schools (and all that are not universities or superior studies) facilities closed
+6.  Universities or superior studies facilities closed
+7.  Banning public gatherings introduced
+8.  Banning public gatherings extended to current
+9.  Domestic travel restrictions introduced
+10.  Abroad travel restrictions introduced
+11.  Non-essential production closed
 
 **Sources**
 * [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_Kingdom)
