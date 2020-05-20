@@ -1,8 +1,14 @@
 # 2020-corona_actions
 
+**Live demo** https://ebuddj.github.io/2020-corona_actions/
+
 ## Corona related actions taken by countries (EBU)
 
-Data is available in `data` folder or via [this link](https://docs.google.com/spreadsheets/d/1Tt83x8vIMeZwYzsYJlxzz7hqfi3gTSpyaz1bB1olwCw/edit#gid=0). 
+This map shows when each country in Europe closed their primary schools in March 2020 in order to prevent the spread of the novel coronavirus (COVID-19).
+
+The data comes from EBU membership and has been compined by EBU Data Journalist. If you find any mistakes please contact  Teemo Tebest, tebest@ebu.ch.
+
+The whole data is available in `data` folder or via [this link](https://docs.google.com/spreadsheets/d/1Tt83x8vIMeZwYzsYJlxzz7hqfi3gTSpyaz1bB1olwCw/edit#gid=0). 
 
 **Sources**
 * [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_Kingdom)
