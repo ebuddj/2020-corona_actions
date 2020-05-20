@@ -6,6 +6,8 @@
 
 This map shows when each country in Europe closed their primary schools in March 2020 in order to prevent the spread of the novel coronavirus (COVID-19).
 
+The country turns darker grey on the day the schools were closed the first time in that country (even in just some parts of the country). For countries in white there is no data. Noteably Iceland is the only country in the data which has not closed schools. 
+
 The data comes from EBU membership and has been combined by EBU Data Journalist. If you find any mistakes please contact Teemo Tebest, tebest@ebu.ch.
 
 The whole data is available in `data` folder or via [this link](https://docs.google.com/spreadsheets/d/1Tt83x8vIMeZwYzsYJlxzz7hqfi3gTSpyaz1bB1olwCw/edit#gid=0).
